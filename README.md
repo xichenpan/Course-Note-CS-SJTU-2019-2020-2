@@ -16,7 +16,10 @@
 * 2020/6/19 更新CS214
 
 ### More Information
-更多本科课程作业参考可以访问上海交通大学计算机系本科作业参考索引[awesome-cs](https://github.com/SJTU-CSE/awesome-cs)
+* 更多笔记可以参考Galaxies99的repo[SJTU-course-notes](https://github.com/Galaxies99/SJTU-course-notes)和skyzh的repo[notes](https://github.com/skyzh/notes)
+* 更多本科课程作业参考可以访问上海交通大学计算机系本科作业参考索引[awesome-cs](https://github.com/SJTU-CSE/awesome-cs)
 
 ### Notice
-因为个人水平实在有限，笔记中可能存在笔误，且因为上课时间比较紧，有些出现大量公式的slides就用截图代替了，导致笔记排版不是很美观。最后欢迎PR和Issues，希望能够帮到大家的final
+* 每科笔记约5w字，完整阅读可能需要2天以上
+* 因为个人水平实在有限，笔记中可能存在笔误，且因为上课时间比较紧，有些出现大量公式的slides就用截图代替了，导致笔记排版不是很美观
+* 欢迎PR和Issues，希望能够帮到大家的final

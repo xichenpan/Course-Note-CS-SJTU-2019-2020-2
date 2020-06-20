@@ -4,16 +4,19 @@
 ### List
 * 算法与复杂性 中文班 CS214 任庆生
 * 计算机科学中的数学基础 中文班 CS499 龙环
+* 操作系统 中文班 CS307 吴晨涛
+* 计算机组成 中文班 EI209 朱弘恣
 
 ### Updating Policy
 * 由于精力限制，final前3-5天会添加课程笔记
 * 根据本人复习进度，在考试前可能会发布修订版，补充一些笔记中的细节
-* 后续会更新OS和Organization的笔记
 
 ### Log
 * 2020/6/14 添加CS214
 * 2020/6/14 添加CS499
 * 2020/6/19 更新CS214
+* 2020/6/21 添加CS307
+* 2020/6/21 添加EI209
 
 ### More Information
 * 更多笔记可以参考Galaxies99的repo[SJTU-course-notes](https://github.com/Galaxies99/SJTU-course-notes)和skyzh的repo[notes](https://github.com/skyzh/notes)

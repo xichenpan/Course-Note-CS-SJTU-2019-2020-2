@@ -14,10 +14,11 @@
 ### Log
 * 2020/6/14 添加CS214
 * 2020/6/14 添加CS499
-* 2020/6/19 更新CS214
+* 2020/6/19 更新CS214 修订了一些错误
 * 2020/6/21 添加CS307
 * 2020/6/21 添加EI209
 * 2020/6/24 更新EI209 删除了考试不涉及的ARM部分，加入页码方便打印
+* 2020/6/24 更新CS307 修订了一些错误
 
 ### More Information
 * 更多笔记可以参考Galaxies99的repo[SJTU-course-notes](https://github.com/Galaxies99/SJTU-course-notes)和skyzh的repo[notes](https://github.com/skyzh/notes)
